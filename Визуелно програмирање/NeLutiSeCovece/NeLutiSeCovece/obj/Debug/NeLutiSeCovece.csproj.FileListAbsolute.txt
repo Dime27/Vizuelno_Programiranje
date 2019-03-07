@@ -1,0 +1,10 @@
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\bin\Debug\NeLutiSeCovece.exe.config
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\bin\Debug\NeLutiSeCovece.exe
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\bin\Debug\NeLutiSeCovece.pdb
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.csprojResolveAssemblyReference.cache
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.Game.resources
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.Menu.resources
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.Properties.Resources.resources
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.csproj.GenerateResource.Cache
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.exe
+C:\Users\Moni\Downloads\NeLutiSeCovece-master\NeLutiSeCovece-master\NeLutiSeCovece\NeLutiSeCovece\obj\Debug\NeLutiSeCovece.pdb
